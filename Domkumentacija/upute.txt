@@ -1,0 +1,24 @@
+Default account:
+    Ime i prezime: John Doe
+    Username: missing_in_action
+    Password: killinginthename
+
+Admin account:
+    Ime i prezime: Bastard operator From hell
+    Username: root
+    Password: rootpass
+
+	Pri ulasku na web stranicu ako se niste logirali vidite samo Home i dvije kateofrije koje su trenutno u bazi, 
+dodavanje vise kategorija u bazu ce ih displayati na navbaru naravno bez ikakvih clanaka posto se trebaju uploadati.
+
+	Kad smo vec kod uploada clanka, to se radi preko admin dio stranice vidljiv samo userima sa permissionom, jedan od tih usera je 
+BOFH ciji su podaci napisani iznad ovog teksta. Kako bi postali user root kliknite na login link sa desne strane navbara.
+
+	Mozete se i registrirati ali bilokoji registrirani user nema permission da ode u admin dio stranice, 
+taj permission se mora rucno unijet u bazu.
+
+	Unutar admin taba vidljivi su svi clanci po njihovim imenima i imate dvije opcije, edit vas šalje u obrazac za izmjenjivanje članka, 
+a za delete mozete pretpostavit sta radi. Ako u bilokojem trenutku zelite prestati biti prijavljeni kliknite na logout.
+
+
+
